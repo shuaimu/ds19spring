@@ -52,14 +52,14 @@ go do something else (read a book, watch a movie) for half an hour before going
 back to work on the assignment. If you can't remember what the person said after
 a half hour, you didn't really understand it. 
 
-## More about source material You are
-welcome to use existing public libraries in your programming assignments (such
-as public classes for queues, trees, etc.) You may also look at code for public
-domain software such as Github. Consistent with the policies and normal academic
-practice, you are obligated to cite any source that gave you code or an idea.
-Per the policy above, you may not look at any course material relating to any
-project or lab similar to this course's assignments. You may not look at work
-done by students in past years' courses. You may not look at similar course
+## More about source material 
+You are welcome to use existing public libraries in your programming assignments
+(such as public classes for queues, trees, etc.) You may also look at code for
+public domain software such as Github. Consistent with the policies and normal
+academic practice, you are obligated to cite any source that gave you code or an
+idea. Per the policy above, you may not look at any course material relating to
+any project or lab similar to this course's assignments. You may not look at
+work done by students in past years' courses. You may not look at similar course
 projects at other universities. If you are unsure about whether a particular
 source of external information is permitted, contact the instructor before
 looking at it.
