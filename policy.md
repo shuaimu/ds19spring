@@ -1,7 +1,7 @@
 
 [Home](README.md) &nbsp; &nbsp; &nbsp;
 [Schedule](schedule.md) &nbsp; &nbsp; &nbsp;
-[Labs (TBD)](README.md) &nbsp; &nbsp; &nbsp;
+[Labs](labs.md) &nbsp; &nbsp; &nbsp;
 [Policy](policy.md)
 
 # Academic Integrity and Collaboration Policy

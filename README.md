@@ -2,7 +2,7 @@
 
 [Home](README.md) &nbsp; &nbsp; &nbsp;
 [Schedule](schedule.md) &nbsp; &nbsp; &nbsp;
-[Labs (TBD)](README.md) &nbsp; &nbsp; &nbsp;
+[Labs](labs.md) &nbsp; &nbsp; &nbsp;
 [Policy](policy.md)
 
 # CSE 535 Asynchronous Systems (2019 Spring)
