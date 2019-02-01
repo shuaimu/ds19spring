@@ -47,7 +47,7 @@ terminal, clone your repo by typing the following:
 
 ```bash 
 $ git clone https://github.com/shuai-teaching/ds19spring-labs-<YourGithubUsername>.git 
-$ cd <YourGithubUsername>-ds19spring-labs
+$ cd ds19spring-labs-<YourGithubUsername>
 ```
 
 You will see that a directory named ds19spring-labs-<YourGithubUsername> has
