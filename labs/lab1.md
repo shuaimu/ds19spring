@@ -34,12 +34,12 @@ The Go web site contains lots of tutorial information which you may want to look
 at. We will grade your labs using Go version 1.9; you should use 1.9 too, though
 we don't know of any problems with other versions.
 
-The labs are designed to run on Athena Linux machines with x86 or x86_64
-architecture; <tt>uname -a</tt> should mention <tt>i386 GNU/Linux</tt> or
-<tt>i686 GNU/Linux</tt> or <tt>x86_64 GNU/Linux</tt>. You can log into a public
-Athena host with <tt>ssh athena.dialup.mit.edu</tt>. You may get lucky and find
-that the labs work in other environments, for example on some laptop Linux or
-OSX installations.
+<!-- The labs are designed to run on Athena Linux machines with x86 or x86_64 -->
+<!-- architecture; <tt>uname -a</tt> should mention <tt>i386 GNU/Linux</tt> or -->
+<!-- <tt>i686 GNU/Linux</tt> or <tt>x86_64 GNU/Linux</tt>. You can log into a public -->
+<!-- Athena host with <tt>ssh athena.dialup.mit.edu</tt>. You may get lucky and find -->
+<!-- that the labs work in other environments, for example on some laptop Linux or -->
+<!-- OSX installations. -->
 
 We supply you with parts of a MapReduce implementation that supports both
 distributed and non-distributed operation (just the boring bits). You'll fetch
