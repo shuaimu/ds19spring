@@ -34,7 +34,7 @@ If you do no have have access to this, consider using a virtual machine.
 Our labs are distributed and submitted through Github. Sign up an account if you
 don't yet have one. Then join the labs assignment system via this
 [link](https://classroom.github.com/a/32BKwmxG). Choose your student ID in the 
-next your page. If you don't see your ID there, contact me via email. Then 
+next page. If you don't see your ID there, contact me via email. Then 
 follow the hints the next page for initial setup of your private labs repo.
 (Github sometimes fails this step. Retry after a few minutes if it happens.)
 
