@@ -85,11 +85,13 @@ The Map/Reduce implementation you are given is missing some pieces. Before you c
 
 To help you determine if you have correctly implemented <tt>doMap()</tt> and <tt>doReduce()</tt>, we have provided you with a Go test suite that checks the correctness of your implementation. These tests are implemented in the file <tt>test_test.go</tt>. To run the tests for the sequential implementation that you have now fixed, run:
 
-<pre>$ cd <repo-dir>
+```bash
+$ cd <your-repo-directory>
 $ export "GOPATH=$PWD"  # go needs $GOPATH to be set to the project's working directory
 $ cd "$GOPATH/src/mapreduce"
 $ go test -run Sequential
-ok  	mapreduce	2.694s</pre>
+ok  	mapreduce	2.694s
+```
 
 You receive full credit for this part if your software passes the Sequential tests (as run by the command above) when we run your software on our machines.
 
@@ -117,13 +119,16 @@ Now you will implement word count — a simple Map/Reduce example. Look in <tt>m
 
 There are some input files with pathnames of the form <tt>pg-*.txt</tt> in ./src/main, downloaded from [Project Gutenberg](https://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads). Here's how to run <tt>wc</tt> with the input files:
 
-<pre>$ cd <repo-dir>
+
+```bash
+$ cd <your-repo-directory>
 $ export "GOPATH=$PWD"
 $ cd "$GOPATH/src/main"
 $ go run wc.go master sequential pg-*.txt
 # command-line-arguments
 ./wc.go:14: missing return at end of function
-./wc.go:21: missing return at end of function</pre>
+./wc.go:21: missing return at end of function
+```
 
 The compilation fails because <tt>mapF()</tt> and <tt>reduceF()</tt> are not complete.
 
