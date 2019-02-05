@@ -18,15 +18,6 @@ workers. The interface to the library and the approach to fault tolerance is
 similar to the one described in the original [MapReduce
 paper](http://research.google.com/archive/mapreduce-osdi04.pdf).
 
-### Collaboration Policy
-
-You must write all the code you hand in for 6.824, except for code that we give
-you as part of the assignment. You are not allowed to look at anyone else's
-solution, and you are not allowed to look at solutions from previous years. You
-may discuss the assignments with other students, but you may not look at or copy
-each others' code. The reason for this rule is that we believe you will learn
-the most by designing and implementing your lab solution code yourself.
-
 ### Software
 
 You'll implement this lab (and all the labs) in [Go](http://www.golang.org/).
@@ -51,27 +42,6 @@ if you are already familiar with other version control systems, you may find
 this [CS-oriented overview of
 git](http://eagain.net/articles/git-for-computer-scientists/) useful.
 
-<!-- These Athena commands will give you access to git and Go: -->
-
-<!-- <pre>athena$ add git -->
-<!-- athena$ setup ggo_v1.9 -->
-<!-- </pre> -->
-
-<!-- The URL for the course git repository is -->
-<!-- <tt>git://g.csail.mit.edu/6.824-golabs-2018</tt>. To install the files in your -->
-<!-- directory, you need to _clone_ the course repository, by running the commands -->
-<!-- below. -->
-
-<!-- <pre>$ git clone git://g.csail.mit.edu/6.824-golabs-2018 6.824 -->
-<!-- $ cd 6.824 -->
-<!-- $ ls -->
-<!-- Makefile src</pre> -->
-
-<!-- Git allows you to keep track of the changes you make to the code. For example, -->
-<!-- if you want to checkpoint your progress, you can _commit_ your changes by -->
-<!-- running: -->
-
-<!-- <pre>$ git commit -am 'partial solution to lab 1'</pre> -->
 
 The Map/Reduce implementation we give you has support for two modes of
 operation, _sequential_ and _distributed_. In the former, the map and reduce
@@ -115,7 +85,7 @@ The Map/Reduce implementation you are given is missing some pieces. Before you c
 
 To help you determine if you have correctly implemented <tt>doMap()</tt> and <tt>doReduce()</tt>, we have provided you with a Go test suite that checks the correctness of your implementation. These tests are implemented in the file <tt>test_test.go</tt>. To run the tests for the sequential implementation that you have now fixed, run:
 
-<pre>$ cd 6.824
+<pre>$ cd <repo-dir>
 $ export "GOPATH=$PWD"  # go needs $GOPATH to be set to the project's working directory
 $ cd "$GOPATH/src/mapreduce"
 $ go test -run Sequential
@@ -145,9 +115,9 @@ ok  	mapreduce	2.672s</pre>
 
 Now you will implement word count — a simple Map/Reduce example. Look in <tt>main/wc.go</tt>; you'll find empty <tt>mapF()</tt> and <tt>reduceF()</tt> functions. Your job is to insert code so that <tt>wc.go</tt> reports the number of occurrences of each word in its input. A word is any contiguous sequence of letters, as determined by [<tt>unicode.IsLetter</tt>](http://golang.org/pkg/unicode/#IsLetter).
 
-There are some input files with pathnames of the form <tt>pg-*.txt</tt> in ~/6.824/src/main, downloaded from [Project Gutenberg](https://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads). Here's how to run <tt>wc</tt> with the input files:
+There are some input files with pathnames of the form <tt>pg-*.txt</tt> in ./src/main, downloaded from [Project Gutenberg](https://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads). Here's how to run <tt>wc</tt> with the input files:
 
-<pre>$ cd 6.824
+<pre>$ cd <repo-dir>
 $ export "GOPATH=$PWD"
 $ cd "$GOPATH/src/main"
 $ go run wc.go master sequential pg-*.txt
