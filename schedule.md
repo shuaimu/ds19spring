@@ -19,7 +19,7 @@ The schedule is tentative and subject to change.
 | Feb 1  | [MapReduce](notes/02-mapreduce.pdf)      | [MapReduce](readings/mapreduce.pdf)             | lab1 released! |
 | Feb 4  | [RPC](notes/03-rpc.pdf)                  | [rpc](readings/rpc.pdf)                         |                |
 | Feb 8  | GFS                                      | [GFS](readings/gfs.pdf)                         |                |
-| Feb 11 | Primary-Backup Replication               | [VM Fault tolerance](readings/vm-ft.pdf))       |                |
+| Feb 11 | Primary-Backup Replication               | [VM Fault tolerance](readings/vm-ft.pdf)        |                |
 | Feb 15 | Linearizability                          | [Linearizability](readings/linearizability.pdf) |                |
 | Feb 18 | Consenus and Paxos                       | [Paxos made simple](readings/paxos.pdf)         |                |
 | Feb 22 | Raft                                     | [Raft](readings/raft.pdf)                       |                |
