@@ -13,38 +13,38 @@ Office hour: MF 02:30PM-03:30pm
 
 The schedule is tentative and subject to change.
 
-| Date   | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Preparation                                     | Notes          |
-|--------+---------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------+----------------|
-| Jan 28 | [Introduction](notes/01-intro.md)                                                                                                                       |                                                 |                |
-| Feb 1  | [MapReduce](notes/02-mapreduce.pdf)                                                                                                                     | [MapReduce](readings/mapreduce.pdf)             | lab1 released! |
-| Feb 4  | [RPC](notes/03-rpc.pdf)                                                                                                                                 | [rpc](readings/rpc.pdf)                         |                |
-| Feb 8  | GFS                                                                                                                                                     | [GFS](readings/gfs.pdf)                         |                |
-| Feb 11 | Primary-Backup Replication                                                                                                                              | [VM Fault tolerance](readings/vm-ft.pdf))       |                |
-| Feb 15 | Linearizability                                                                                                                                         | [Linearizability](readings/linearizability.pdf) |                |
-| Feb 18 | Consenus and Paxos                                                                                                                                      | [Paxos mad simple](readings/paxos.pdf)          |                |
-| Feb 22 | Raft                                                                                                                                                    | [Raft](readings/raft.pdf)                       |                |
-| Feb 25 | Spinnaker                                                                                                                                               |                                                 |                |
-| Mar 1  | ZooKeeper                                                                                                                                               |                                                 |                |
-| Mar 4  | Distributed Transactions                                                                                                                                |                                                 |                |
-| Mar 8  | Optimistic Concurrency Control                                                                                                                          |                                                 |                |
-| Mar 11 | TBD                                                                                                                                                     |                                                 |                |
-| Mar 15 | Mid-term Exam                                                                                                                                           |                                                 |                |
-| Mar 18 |                                                                                                                                                         |                                                 | Spring break   |
-| Mar 22 |                                                                                                                                                         |                                                 | Spring break   |
-| Mar 25 | Spark                                                                                                                                                   |                                                 |                |
-| Mar 29 | Naid                                                                                                                                                    |                                                 |                |
-| Apr 1  | Parameter Server                                                                                                                                        |                                                 |                |
-| Apr 5  | TBD                                                                                                                                                     |                                                 |                |
-| Apr 8  | Cache Consistency: Frangipani                                                                                                                           |                                                 |                |
-| Apr 12 | Cache Consistency: Memcached at Facebook                                                                                                                |                                                 |                |
-| Apr 15 | TBD                                                                                                                                                     |                                                 |                |
-| Apr 19 | Eventual Consistency                                                                                                                                    |                                                 |                |
-| Apr 22 | P2P and DHT                                                                                                                                             |                                                 |                |
-| Apr 26 | TBD                                                                                                                                                     |                                                 |                |
-| Apr 29 | Dynamo                                                                                                                                                  |                                                 |                |
-| May 3  | Bitcoin                                                                                                                                                 |                                                 |                |
-| May 7  | TBD                                                                                                                                                     |                                                 |                |
-| May 10 | Review                                                                                                                                                  |                                                 |                |
+| Date   | Topic &nbsp;                             | Preparation                                     | Notes          |
+|--------|------------------------------------------|-------------------------------------------------|----------------|
+| Jan 28 | [Introduction](notes/01-intro.md)        |                                                 |                |
+| Feb 1  | [MapReduce](notes/02-mapreduce.pdf)      | [MapReduce](readings/mapreduce.pdf)             | lab1 released! |
+| Feb 4  | [RPC](notes/03-rpc.pdf)                  | [rpc](readings/rpc.pdf)                         |                |
+| Feb 8  | GFS                                      | [GFS](readings/gfs.pdf)                         |                |
+| Feb 11 | Primary-Backup Replication               | [VM Fault tolerance](readings/vm-ft.pdf))       |                |
+| Feb 15 | Linearizability                          | [Linearizability](readings/linearizability.pdf) |                |
+| Feb 18 | Consenus and Paxos                       | [Paxos made simple](readings/paxos.pdf)         |                |
+| Feb 22 | Raft                                     | [Raft](readings/raft.pdf)                       |                |
+| Feb 25 | Spinnaker                                |                                                 |                |
+| Mar 1  | ZooKeeper                                |                                                 |                |
+| Mar 4  | Distributed Transactions                 |                                                 |                |
+| Mar 8  | Optimistic Concurrency Control           |                                                 |                |
+| Mar 11 | TBD                                      |                                                 |                |
+| Mar 15 | Mid-term Exam                            |                                                 |                |
+| Mar 18 |                                          |                                                 | Spring break   |
+| Mar 22 |                                          |                                                 | Spring break   |
+| Mar 25 | Spark                                    |                                                 |                |
+| Mar 29 | Naid                                     |                                                 |                |
+| Apr 1  | Parameter Server                         |                                                 |                |
+| Apr 5  | TBD                                      |                                                 |                |
+| Apr 8  | Cache Consistency: Frangipani            |                                                 |                |
+| Apr 12 | Cache Consistency: Memcached at Facebook |                                                 |                |
+| Apr 15 | TBD                                      |                                                 |                |
+| Apr 19 | Eventual Consistency                     |                                                 |                |
+| Apr 22 | P2P and DHT                              |                                                 |                |
+| Apr 26 | TBD                                      |                                                 |                |
+| Apr 29 | Dynamo                                   |                                                 |                |
+| May 3  | Bitcoin                                  |                                                 |                |
+| May 7  | TBD                                      |                                                 |                |
+| May 10 | Review                                   |                                                 |                |
 
 
 
