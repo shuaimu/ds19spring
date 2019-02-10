@@ -9,7 +9,7 @@
 
 Lecture: MF 01:00-02:20pm HUMANITIES 1003 
 
-Office hour: MF 02:30PM-03:30pm 
+Office hour: M 02:30-04:30pm NCS 351
 
 The schedule is tentative and subject to change.
 
