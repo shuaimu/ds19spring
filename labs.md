@@ -10,13 +10,12 @@
 
 [Lab 1 - MapReduce](labs/lab1.md) (Due: Feb 17)
 
-Lab 2 - Primary-backup Key-value service (Due: TBD)
+[Lab 2 - Replicated State Machine](labs/lab2.md) (Due: Mar 7)
 
-Lab 3 - Paxos (Due: TBD)
+Lab 3 - Fault-tolerant Key-value Store (Due: TBD)
 
-Lab 4 - Sharded key-value service (Due: TBD)
+Lab 4 - Sharded Key-value Store (Due: TBD)
 
-Lab 5 - Persistence (Due: TBD)
 
 ## Acknowledgements
 These labs are developed by Robert Morris (MIT 6.824).
