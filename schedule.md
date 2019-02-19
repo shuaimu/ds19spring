@@ -20,8 +20,8 @@ The schedule is tentative and subject to change.
 | Feb 4  | [RPC](notes/03-rpc.pdf)                         | [rpc](readings/rpc.pdf)                         |                |
 | Feb 8  | [GFS](notes/04-gfs.pdf)                         | [GFS](readings/gfs.pdf)                         |                |
 | Feb 11 | [Primary-Backup Replication](notes/05-vmft.pdf) | [VM Fault tolerance](readings/vm-ft.pdf)        |                |
-| Feb 15 | [Linearizability](notes/06-linear.pdf)           | [Linearizability](readings/linearizability.pdf) |                |
-| Feb 18 | Consenus and Paxos                              | [Paxos made simple](readings/paxos.pdf)         |                |
+| Feb 15 | [Linearizability](notes/06-linear.pdf)          | [Linearizability](readings/linearizability.pdf) |                |
+| Feb 18 | Consensus and Paxos                             | [Paxos made simple](readings/paxos.pdf)         |                |
 | Feb 22 | Raft                                            | [Raft](readings/raft.pdf)                       |                |
 | Feb 25 | Spinnaker                                       |                                                 |                |
 | Mar 1  | ZooKeeper                                       |                                                 |                |
