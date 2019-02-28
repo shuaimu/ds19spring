@@ -24,7 +24,7 @@ The schedule is tentative and subject to change.
 | Feb 18 | Consenus and Paxos                              | [Paxos made simple](readings/paxos.pdf)         | lab2 released! |
 | Feb 22 | Multi-Paxos, Raft                               | [Raft](readings/raft.pdf)                       |                |
 | Feb 25 | Raft (cont'd)                                   |                                                 |                |
-| Mar 1  | Causal Consistency                              | [Bayou](readings/bayou.pdf)                     |                |
+| Mar 1  | Relaxed Consistency                              | [Bayou](readings/bayou.pdf)                     |                |
 | Mar 4  | Distributed Transactions                        |                                                 |                |
 | Mar 8  | Optimistic Concurrency Control                  |                                                 |                |
 | Mar 11 | TBD                                             |                                                 |                |
