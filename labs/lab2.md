@@ -2,7 +2,7 @@
 
 # Lab 2: Replicated State Machine
 
-Due: Mar 7 at 11:59pm
+Due: Mar 7 (extended to Mar 10) at 11:59pm
 
 </div>
 
