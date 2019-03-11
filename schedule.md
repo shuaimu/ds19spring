@@ -27,14 +27,14 @@ The schedule is tentative and subject to change.
 | Mar 1  | Relaxed Consistency I                           | [Bayou](readings/bayou.pdf)                                            |                |
 | Mar 4  | Relaxed Consistency II                          | [COPS](readings/cops.pdf)                                              |                |
 | Mar 8  | Transactions                                    | [Concurrency control and recovery](readings/franklin97concurrency.pdf) |                |
-| Mar 11 | Isolation level                                 | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |                |
+| Mar 11 |                                                 |                                                                        | Hacking day    |
 | Mar 15 | Mid-term Exam                                   |                                                                        |                |
 | Mar 18 |                                                 |                                                                        | Spring break   |
 | Mar 22 |                                                 |                                                                        | Spring break   |
-| Mar 25 | Spark                                           |                                                                        |                |
-| Mar 29 | Naid                                            |                                                                        |                |
-| Apr 1  | Parameter Server                                |                                                                        |                |
-| Apr 5  | TBD                                             |                                                                        |                |
+| Mar 25 | Isolation level                                 | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |                |
+| Mar 29 | Spark                                           |                                                                        |                |
+| Apr 1  | Naid                                            |                                                                        |                |
+| Apr 5  | Parameter Server                                |                                                                        |                |
 | Apr 8  | Cache Consistency: Frangipani                   |                                                                        |                |
 | Apr 12 | Cache Consistency: Memcached at Facebook        |                                                                        |                |
 | Apr 15 | TBD                                             |                                                                        |                |
