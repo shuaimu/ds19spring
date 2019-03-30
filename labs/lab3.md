@@ -3,7 +3,7 @@
 
 # Lab 3: Fault-tolerant Key/Value Service
 
-Due: Apr 7 at 11:59pm
+Due: Apr 11 at 11:59pm
 
 </div>
 
