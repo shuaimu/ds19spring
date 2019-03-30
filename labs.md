@@ -12,7 +12,7 @@
 
 [Lab 2 - Replicated State Machine](labs/lab2.md) (Due: Mar 7)
 
-[Lab 3 - Fault-tolerant Key-value Store](labs/lab2.md) (Due: Apr 11)
+[Lab 3 - Fault-tolerant Key-value Store](labs/lab3.md) (Due: Apr 11)
 
 Lab 4 - Sharded Key-value Store (Due: TBD)
 
