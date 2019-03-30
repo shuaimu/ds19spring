@@ -31,7 +31,7 @@ The schedule is tentative and subject to change.
 | Mar 15 | Mid-term Exam                                   |                                                                        |                |
 | Mar 18 |                                                 |                                                                        | Spring break   |
 | Mar 22 |                                                 |                                                                        | Spring break   |
-| Mar 25 | Isolation level                                 | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |                |
+| Mar 25 | Isolation level                                 | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |   lab3 released!             | 
 | Mar 29 | Spark                                           |                                                                        |                |
 | Apr 1  | Naid                                            |                                                                        |                |
 | Apr 5  | Parameter Server                                |                                                                        |                |
