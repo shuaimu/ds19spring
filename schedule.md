@@ -26,21 +26,21 @@ The schedule is tentative and subject to change.
 | Feb 25 | Raft (cont'd)                                   |                                                                        |                |
 | Mar 1  | Relaxed Consistency I                           | [Bayou](readings/bayou.pdf)                                            |                |
 | Mar 4  | Relaxed Consistency II                          | [COPS](readings/cops.pdf)                                              |                |
-| Mar 8  | Transactions                                    | [Concurrency control and recovery](readings/franklin97concurrency.pdf) |                |
+| Mar 8  | Transactions I                                  | [Concurrency control and recovery](readings/franklin97concurrency.pdf) |                |
 | Mar 11 |                                                 |                                                                        | Hacking day    |
 | Mar 15 | Mid-term Exam                                   |                                                                        |                |
 | Mar 18 |                                                 |                                                                        | Spring break   |
 | Mar 22 |                                                 |                                                                        | Spring break   |
-| Mar 25 | Isolation level                                 | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |   lab3 released!             | 
-| Mar 29 | Spark                                           |                                                                        |                |
-| Apr 1  | Naid                                            |                                                                        |                |
-| Apr 5  | Parameter Server                                |                                                                        |                |
-| Apr 8  | Cache Consistency: Frangipani                   |                                                                        |                |
-| Apr 12 | Cache Consistency: Memcached at Facebook        |                                                                        |                |
-| Apr 15 | TBD                                             |                                                                        |                |
-| Apr 19 | Eventual Consistency                            |                                                                        |                |
-| Apr 22 | P2P and DHT                                     |                                                                        |                |
-| Apr 26 | TBD                                             |                                                                        |                |
+| Mar 25 | Mid-term Review                                 |                                                                        | lab3 released! |
+| Mar 29 | Transaction II                                  |                                                                        |                |
+| Apr 1  | Transaction III                                 | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |                |
+| Apr 5  | Distributed Transactions I                      | [Spanner](readings/spanner.pdf)                                        |                |
+| Apr 8  | Distributed Transactions II                     | [Percolator](readings/percolator.pdf)                                  |                |
+| Apr 12 | Spark/Naid/Parameter Server                     |                                                                        |                |
+| Apr 15 | Cache Consistency: Frangipani                   |                                                                        |                |
+| Apr 19 | Cache Consistency: Memcached at Facebook        |                                                                        |                |
+| Apr 22 | Eventual Consistency                            |                                                                        |                |
+| Apr 26 | P2P and DHT                                     |                                                                        |                |
 | Apr 29 | Dynamo                                          |                                                                        |                |
 | May 3  | Bitcoin                                         |                                                                        |                |
 | May 7  | TBD                                             |                                                                        |                |
