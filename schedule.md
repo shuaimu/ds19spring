@@ -24,8 +24,8 @@ The schedule is tentative and subject to change.
 | Feb 18 | Consistency II: Consensus and Paxos                               | [Paxos made simple](readings/paxos.pdf)                                | lab2 released! |
 | Feb 22 | Consistency III: Multi-Paxos, Raft                                | [Raft](readings/raft.pdf)                                              |                |
 | Feb 25 | Consistency IV: Raft (cont'd)                                     |                                                                        |                |
-| Mar 1  | Consistency V: Causality                                          | [Bayou](readings/bayou.pdf)                                            |                |
-| Mar 4  | Consistency VI: Scalability                                       | [COPS](readings/cops.pdf)                                              |                |
+| Mar 1  | Consistency V: Eventual Consistency and Causality                 | [Bayou](readings/bayou.pdf)                                            |                |
+| Mar 4  | Consistency VI: Causal Consistency                                | [COPS](readings/cops.pdf)                                              |                |
 | Mar 8  | Transactions I: Concepts                                          | [Concurrency control and recovery](readings/franklin97concurrency.pdf) |                |
 | Mar 11 |                                                                   |                                                                        | Hacking day    |
 | Mar 15 | Mid-term Exam                                                     |                                                                        |                |
@@ -37,7 +37,7 @@ The schedule is tentative and subject to change.
 | Apr 5  | [Transactions IV: Distributed Transactions](notes/15-spanner.pdf) | [Spanner](readings/spanner.pdf)                                        |                |
 | Apr 8  | Transactions V: Distributed Transactions (cont'd)                 |                                                                        |                |
 | Apr 12 | [Transactions VI: Serverless](notes/16-percolator.pdf)            | [Percolator](readings/percolator.pdf)                                  |                |
-| Apr 15 | Blockchain I: Proof-of-work                                       | [Bitcoin](readings/bitcoin.pdf)                                         |                |
+| Apr 15 | Blockchain I: Proof-of-work                                       | [Bitcoin](readings/bitcoin.pdf)                                        |                |
 | Apr 19 | Blockchain II Proof-of-state                                      | [Algorand](readings/algorand.pdf)                                      |                |
 | Apr 22 | Blockchain III: Proof-of-space                                    |                                                                        |                |
 | Apr 26 | Blockchain IV: Smart contract                                     |                                                                        |                |

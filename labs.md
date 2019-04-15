@@ -14,7 +14,7 @@
 
 [Lab 3 - Fault-tolerant Key-value Store](labs/lab3.md) (Due: Apr 11)
 
-Lab 4 - Sharded Key-value Store (Due: TBD)
+[Lab 4 - Sharded Key-value Store](labs/lab4.md) (Due: May 2)
 
 
 ## Acknowledgements
