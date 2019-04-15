@@ -37,7 +37,7 @@ The schedule is tentative and subject to change.
 | Apr 5  | [Transactions IV: Distributed Transactions](notes/15-spanner.pdf) | [Spanner](readings/spanner.pdf)                                        |                |
 | Apr 8  | Transactions V: Distributed Transactions (cont'd)                 |                                                                        |                |
 | Apr 12 | [Transactions VI: Serverless](notes/16-percolator.pdf)            | [Percolator](readings/percolator.pdf)                                  |                |
-| Apr 15 | Blockchain I: Proof-of-work                                       | [Bitcoin](readings/bitcoin.pdf)                                        |                |
+| Apr 15 | Blockchain I: Proof-of-work                                       | [Bitcoin](readings/bitcoin.pdf)                                        | lab4 released! |
 | Apr 19 | Blockchain II Proof-of-state                                      | [Algorand](readings/algorand.pdf)                                      |                |
 | Apr 22 | Blockchain III: Proof-of-space                                    |                                                                        |                |
 | Apr 26 | Blockchain IV: Smart contract                                     |                                                                        |                |
