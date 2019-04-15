@@ -9,12 +9,14 @@
 
 ## Announcements
 
-  * (Jan 7, 2019) Please join
-    [Piazza](https://piazza.com/stonybrook/spring2019/cse535) for class
-    notifications and discussions.
-  * (Jan 7, 2019) Please read the [collaboration and academic integrity
-    policy](policy.md); Enrollment in this class suggests you have accepted the
-    policy.
+* Final exam date: May 20, 2:15pm, Humanities 10003
+
+* (Jan 7, 2019) Please join
+[Piazza](https://piazza.com/stonybrook/spring2019/cse535) for class
+notifications and discussions.
+* (Jan 7, 2019) Please read the [collaboration and academic integrity
+policy](policy.md); Enrollment in this class suggests you have accepted the
+policy.
 
 ## Course information
 Asynchronous/Distributed systems help programmers aggregate the resource of many
