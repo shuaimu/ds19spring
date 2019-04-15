@@ -9,7 +9,7 @@
 
 ## Announcements
 
-* Final exam date: May 20, 2:15pm, Humanities 1003
+* (Apr 15, 2019) Final exam date: May 20, 2:15pm, Humanities 1003
 
 * (Jan 7, 2019) Please join
 [Piazza](https://piazza.com/stonybrook/spring2019/cse535) for class
