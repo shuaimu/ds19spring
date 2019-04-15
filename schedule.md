@@ -26,7 +26,7 @@ The schedule is tentative and subject to change.
 | Feb 25 | Consistency IV: Raft (cont'd)                                     |                                                                        |                |
 | Mar 1  | Consistency V: Eventual Consistency and Causality                 | [Bayou](readings/bayou.pdf)                                            |                |
 | Mar 4  | Consistency VI: Causal Consistency                                | [COPS](readings/cops.pdf)                                              |                |
-| Mar 8  | Transactions I: Concepts                                          | [Concurrency control and recovery](readings/franklin97concurrency.pdf) |                |
+| Mar 8  | [Transactions I: Serializability](notes/12-serializability.pdf)   | [Concurrency control and recovery](readings/franklin97concurrency.pdf) |                |
 | Mar 11 |                                                                   |                                                                        | Hacking day    |
 | Mar 15 | Mid-term Exam                                                     |                                                                        |                |
 | Mar 18 |                                                                   |                                                                        | Spring break   |
