@@ -34,9 +34,9 @@ The schedule is tentative and subject to change.
 | Mar 25 | Mid-term Review                                                  |                                                                        | lab3 released! |
 | Mar 29 | [Transaction II: Two-phase Locking](notes/13-2pl.pdf)            |                                                                        |                |
 | Apr 1  | [Transaction III: Isolation Levels](notes/14-isolation.pdf)      | [A Critique of ANSI SQL Isolation Levels](readings/si.pdf)             |                |
-| Apr 5  | [Transactions I: Distributed Transactions](notes/15-spanner.pdf) | [Spanner](readings/spanner.pdf)                                        |                |
-| Apr 8  | Transactions II: Distributed Transactions (cont'd)               |                                                                        |                |
-| Apr 12 | [Transactions: Serverless](notes/16-percolator.pdf)              | [Percolator](readings/percolator.pdf)                                  |                |
+| Apr 5  | [Transactions IV: Distributed Transactions](notes/15-spanner.pdf) | [Spanner](readings/spanner.pdf)                                        |                |
+| Apr 8  | Transactions V: Distributed Transactions (cont'd)              |                                                                        |                |
+| Apr 12 | [Transactions VI: Serverless](notes/16-percolator.pdf)           | [Percolator](readings/percolator.pdf)                                  |                |
 | Apr 15 | Blockchain I: Bitcoin                                            |                                                                        |                |
 | Apr 19 | Cache Consistency: Memcached at Facebook                         |                                                                        |                |
 | Apr 22 | Eventual Consistency                                             |                                                                        |                |
