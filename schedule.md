@@ -14,7 +14,7 @@ Office hour: M 02:30-04:30pm NCS 351
 The schedule is tentative and subject to change.
 
 | Date   | Topic &nbsp;                                                     | Preparation                                                            | Notes          |
-|--------+------------------------------------------------------------------+------------------------------------------------------------------------+----------------|
+|--------|------------------------------------------------------------------|------------------------------------------------------------------------|----------------|
 | Jan 28 | [Introduction I: Overview](notes/01-intro.md)                    |                                                                        |                |
 | Feb 1  | [Introduction II: MapReduce](notes/02-mapreduce.pdf)             | [MapReduce](readings/mapreduce.pdf)                                    | lab1 released! |
 | Feb 4  | [Introduction III: RPC](notes/03-rpc.pdf)                        | [rpc](readings/rpc.pdf)                                                |                |
@@ -38,7 +38,7 @@ The schedule is tentative and subject to change.
 | Apr 8  | Transaction V: Distributed Transactions (cont'd)                 |                                                                        |                |
 | Apr 12 | [Transaction VI: Serverless](notes/16-percolator.pdf)            | [Percolator](readings/percolator.pdf)                                  |                |
 | Apr 15 | Blockchain I: Proof-of-work                                      | [Bitcoin](readings/bitcoin.pdf)                                        | lab4 released! |
-| Apr 19 | Blockchain II BFT Consensus                        | [Algorand](readings/algorand.pdf)                                      |                |
+| Apr 19 | Blockchain II BFT Consensus                                      | [Algorand](readings/algorand.pdf)                                      |                |
 | Apr 22 | Blockchain III: Proof-of-space                                   |                                                                        |                |
 | Apr 26 | Blockchain IV: Smart contract                                    |                                                                        |                |
 | Apr 29 | Cache Consistency: Memcached at Facebook                         |                                                                        |                |
