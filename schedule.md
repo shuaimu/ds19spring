@@ -38,12 +38,12 @@ The schedule is tentative and subject to change.
 | Apr 8  | Transaction V: Distributed Transactions (cont'd)                 |                                                                        |                |
 | Apr 12 | [Transaction VI: Serverless](notes/16-percolator.pdf)            | [Percolator](readings/percolator.pdf)                                  |                |
 | Apr 15 | Blockchain I: Proof-of-work                                      | [Bitcoin](readings/bitcoin.pdf)                                        | lab4 released! |
-| Apr 19 | Blockchain II BFT Consensus                                      | [Algorand](readings/algorand.pdf)                                      |                |
-| Apr 22 | Blockchain III: Proof-of-space                                   |                                                                        |                |
-| Apr 26 | Blockchain IV: Smart contract                                    |                                                                        |                |
-| Apr 29 | Cache Consistency: Memcached at Facebook                         |                                                                        |                |
-| May 3  | Cache Consistency: Frangipani                                    |                                                                        |                |
-| May 7  | Spark/Naid/Parameter Server/P2P and DHT                          |                                                                        |                |
+| Apr 19 | Blockchain II: BFT Consensus                                     | [Algorand](readings/algorand.pdf)                                      |                |
+| Apr 22 | Blockchain III: Smart Contract                                   |                                                                        |                |
+| Apr 26 | Blockchain IV: Storage Network                                   |                                                                        |                |
+| Apr 29 | Security I: Private communication                                | [Tor](readings/tor.pdf)                                                |                |
+| May 3  | Security II: TBD                                                 |                                                                        |                |
+| May 7  | Security III: TBD                                                |                                                                        |                |
 | May 10 | Review                                                           |                                                                        |                |
 
 
