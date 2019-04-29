@@ -40,7 +40,7 @@ The schedule is tentative and subject to change.
 | Apr 15 | Blockchain I: Proof-of-work                                      | [Bitcoin](readings/bitcoin.pdf)                                        | lab4 released! |
 | Apr 19 | Blockchain II: BFT Consensus                                     | [Algorand](readings/algorand.pdf)                                      |                |
 | Apr 22 | Blockchain III: Smart Contract                                   |                                                                        |                |
-| Apr 26 | Blockchain IV: Storage Network                                   |                                                                        |                |
+| Apr 26 | Blockchain IV: Storage Network                                   | [Filecoin](readings/filecoin.pdf)                                      |                |
 | Apr 29 | Security I: Private communication                                | [Tor](readings/tor.pdf)                                                |                |
 | May 3  | Security II: TBD                                                 |                                                                        |                |
 | May 7  | Security III: TBD                                                |                                                                        |                |
