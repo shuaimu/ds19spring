@@ -41,8 +41,8 @@ The schedule is tentative and subject to change.
 | Apr 19 | Blockchain II: BFT Consensus                                     | [Algorand](readings/algorand.pdf)                                      |                |
 | Apr 22 | Blockchain III: Smart Contract                                   |                                                                        |                |
 | Apr 26 | Blockchain IV: Storage Network                                   | [Filecoin](readings/filecoin.pdf)                                      |                |
-| Apr 29 | Security I: Private communication                                | [Tor](readings/tor.pdf)                                                |                |
-| May 3  | Security II: TBD                                                 |                                                                        |                |
+| Apr 29 | Security I: Private Communication                                | [Tor](readings/tor.pdf)                                                |                |
+| May 3  | Security II: DDoS Defense                                        | [Speakup](readings/speakup.pdf)                                        |                |
 | May 7  | Security III: TBD                                                |                                                                        |                |
 | May 10 | Review                                                           |                                                                        |                |
 
