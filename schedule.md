@@ -43,7 +43,7 @@ The schedule is tentative and subject to change.
 | Apr 26 | Blockchain IV: Storage Network                                   | [Filecoin](readings/filecoin.pdf)                                      |                |
 | Apr 29 | Security I: Private Communication                                | [Tor](readings/tor.pdf)                                                |                |
 | May 3  | Security II: DDoS Defense                                        | [Speakup](readings/speakup.pdf)                                        |                |
-| May 6  | Security III: TBD                                                |                                                                        |                |
+| May 6  | Security III: Verifiable Systems                                 | [Orochi](readings/orochi.pdf)                                          |                |
 | May 10 | Review                                                           |                                                                        |                |
 
 
