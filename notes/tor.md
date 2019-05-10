@@ -21,4 +21,4 @@
 
 ## Possible attacks
  * if we can hack into all the routers on a circuit in the order from the destination to the source, we're able to find the source.
- * the attack can also be done by hijacking the network traffic of all routers. 
+ * the attack can also be done by hijacking the network traffic of all routers on the circuit. 
