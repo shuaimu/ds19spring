@@ -42,12 +42,10 @@ The schedule is tentative and subject to change.
 | Apr 22 | Blockchain III: Smart Contract                                   |                                                                        |                |
 | Apr 26 | Blockchain IV: Storage Network                                   | [Filecoin](readings/filecoin.pdf)                                      |                |
 | Apr 29 | [Security I: Private Communication](notes/tor.md)                | [Tor](readings/tor.pdf)                                                |                |
-| May 3  | [Security II: DDoS Defense](notes/speakup.md)                    | [Speakup](readings/speakup.pdf)                                        |                |
-| May 6  | Security III: Verifiable Systems                                 | [Orochi](readings/orochi.pdf)                                          |                |
+| May 3  |                                                                  |                                                                        | canceled       |
+| May 6  | [Security II: DDoS Defense](notes/speakup.md)                    | [Speakup](readings/speakup.pdf)                                        |                |
 | May 10 | Review                                                           |                                                                        |                |
-
-
-
+| May 13 | Security III: Verifiable Systems                                 | [Orochi](readings/orochi.pdf)                                          | make-up        |
 
 
 [SBU calendar](https://www.stonybrook.edu/commcms/registrar/calendars/_ucalcontent/fall18summer19.php)
