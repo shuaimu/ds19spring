@@ -37,12 +37,12 @@ The schedule is tentative and subject to change.
 | Apr 5  | [Transaction IV: Distributed Transactions](notes/15-spanner.pdf) | [Spanner](readings/spanner.pdf)                                        |                |
 | Apr 8  | Transaction V: Distributed Transactions (cont'd)                 |                                                                        |                |
 | Apr 12 | [Transaction VI: Serverless](notes/16-percolator.pdf)            | [Percolator](readings/percolator.pdf)                                  |                |
-| Apr 15 | Blockchain I: Proof-of-work                                      | [Bitcoin](readings/bitcoin.pdf)                                        | lab4 released! |
+| Apr 15 | [Blockchain I: Proof-of-work](notes/bitcoin.md)                  | [Bitcoin](readings/bitcoin.pdf)                                        | lab4 released! |
 | Apr 19 | Blockchain II: BFT Consensus                                     | [Algorand](readings/algorand.pdf)                                      |                |
 | Apr 22 | Blockchain III: Smart Contract                                   |                                                                        |                |
 | Apr 26 | Blockchain IV: Storage Network                                   | [Filecoin](readings/filecoin.pdf)                                      |                |
 | Apr 29 | Security I: Private Communication                                | [Tor](readings/tor.pdf)                                                |                |
-| May 3  | Security II: DDoS Defense                                        | [Speakup](readings/speakup.pdf)                                        |                |
+| May 3  | [Security II: DDoS Defense](notes/speakup.md)                    | [Speakup](readings/speakup.pdf)                                        |                |
 | May 6  | Security III: Verifiable Systems                                 | [Orochi](readings/orochi.pdf)                                          |                |
 | May 10 | Review                                                           |                                                                        |                |
 
