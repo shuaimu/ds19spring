@@ -17,7 +17,7 @@
  * the user contacts the directory server and selects a set of routers.
  * the user establishes a communication link ("circuit") hop by hop. each router is only aware of the prior router on the circuit. 
  * when the user sends a message over the circuit, the message should be encrypted in layers. Each hop only knows the key to decrypt its own layer.   
- * Each circuit is multiplexed by multiple tap streams. (why? because establishing a circuit costs time.)
+ * Each circuit is multiplexed by multiple TCP streams. (why? because establishing a circuit costs time.)
 
 ## Possible attacks
  * if we can hack into all the routers on a circuit in the order from the destination to the source, we're able to find the source.
